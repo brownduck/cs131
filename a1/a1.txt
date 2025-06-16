@@ -1,0 +1,9 @@
+1. Home directory path is /home/matthew_peng. Figured out by going to home directory with cd ~.
+2. The file about memory is under /proc/meminfo and the file about cpu is under /proc/cpuinfo.
+3. Version is 20.04.6 LTS (Focal Fossa). It was under /etc/os-release.
+4.
+A.
+Top pickup ID locations: 161.0, 237.0, 236.0
+B. 
+Top pickup ID locations: 161.0, 237.0, 236.0 
+

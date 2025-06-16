@@ -1,0 +1,25 @@
+1.
+cd ~
+pwd 
+2.
+ls proc | grep "mem"
+ls proc | grep "cpu"
+3.
+ls etc | grep "os"
+cd etc
+cat os-release
+4.
+A.
+cat 2019-04.csv | grep "2019-04-02" | cut -d, -f8 | sort | uniq -c | sort -nr | head -n 3
+The output:
+13354 161.0
+12421 237.0
+11138 236.0
+B.
+cat 2019-04.csv | grep "2019-04-10" | cut -d, -f8 | sort | uniq -c | sort -nr | head -n 3
+The output:
+13290 161.0
+12956 237.0
+11278 236.0
+
+
