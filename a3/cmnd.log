@@ -1,0 +1,1 @@
+awk -f grader.awk grades.csv

@@ -1,0 +1,15 @@
+Students Analysis:
+|Name        |Total Score   |Average     |Status      | 
+-------------------------------------------------------
+|David       |195           |65.00       |Fail        |
+|Mr. Fresh   |600           |100.00      |Pass        |
+|Eve         |265           |88.33       |Pass        |
+|the scallops|500           |71.43       |Pass        |
+|Bob         |246           |82.00       |Pass        |
+|Charlie     |270           |90.00       |Pass        |
+|The Horse   |174           |13.38       |Fail        |
+|Alice       |182           |45.50       |Fail        |
+-------------------------------------------------------
+
+The Best Student: Mr. Fresh(600)
+The Worst Student(they're gonna DIE): The Horse(174)
